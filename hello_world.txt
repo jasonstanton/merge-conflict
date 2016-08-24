@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Galaxy
+=======
+Hello Universe
+>>>>>>> change-hello-universe
